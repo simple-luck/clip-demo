@@ -1,0 +1,32 @@
+# Python 字节码和缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# 虚拟环境
+venv/
+env/
+ENV/
+myenv/
+.env
+
+# 数据集（如果不想上传整个 flickr30k 文件夹）
+images/flickr30k/
+
+# 编辑器临时文件
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 日志和数据库
+*.log
+*.db
+*.sqlite3
+
+# 构建产物
+dist/
+build/
+*.egg-info/
