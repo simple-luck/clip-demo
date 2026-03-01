@@ -58,6 +58,7 @@ clip-demo/
 ├── candidates.txt        # 文本候选集
 ├── requirements.txt      # 依赖包列表
 └── README.md             # 项目说明
+```
 
 ## 💡 核心代码解析
 1. 加载预训练模型
